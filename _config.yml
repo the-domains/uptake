@@ -1,7 +1,7 @@
 name: Uptake
 favicon: null
-layout_spectrum: 0.5780166597105563
-typography_spectrum: 0.03477906156331301
+layout_spectrum: 0.51902
+typography_spectrum: 0.52364
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6007265981752425
-  lightness: 0.02595361741259694
-  saturation: 0.16805048496462405
-  rhythmicContrast: 0.6943208200391382
+    - '#19bef0'
+    - '#0b5eaa'
+    - '#000000'
+    - '#00ffff'
+    - '#0000ff'
+  brandStrength: 0.5625
+  lightness: 0
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
